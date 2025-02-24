@@ -1,5 +1,5 @@
 # Installation of RiSCAN PRO
-To download the RiSCAN Pro software you need to register for an account on the RIEGL website.
+To download the RiSCAN PRO software you need to register for an account on the RIEGL website.
 
 1. Go to http://www.riegl.com/members-area/. 
 2. Click *register here* and fill in your information (example of what I filled in below).
@@ -15,7 +15,7 @@ Once your account is confirmed you can log in:
 
 ![installation-2](./img/1_installation-2.png)
 
-Here you can download the latest version of RiSCAN Pro. Make sure we have a license for the latest version (ask Kim/Louise). If not see steps 8-11.
+Here you can download the latest version of RiSCAN PRO. Make sure we have a license for the latest version (ask Kim/Louise). If not see steps 8-11.
 
 6. Click *DOWNLOAD*.
 7. Follow the steps in the installer. 
@@ -33,17 +33,17 @@ If we do not have the license to use the latest version of RiSCAN PRO follow the
 
 Now we still need to set the license:
 
-12. Open *RiSCAN PRO*.
+12. Open RiSCAN PRO.
 13. Go to *Tool > License Center…*.
 14. Go to *Additional*.
 15. Click *Add…*.
 16. Fill in licriscan.ugent.be under *Host*
 17. Click *OK*.
-18. Close the *License Center* & *RiSCAN PRO*.
+18. Close the License Center & RiSCAN PRO.
 
 ![installation-2](./img/1_installation-5.png)
 
-To use *RiSCAN PRO* under these licenses you have to open RiSCAN PRO while being connected with the UGent VPN.
+To use RiSCAN PRO under these licenses you have to open RiSCAN PRO while being connected with the UGent VPN.
 
 Go to https://helpdesk.ugent.be/vpn/en/asa.php if you don’t know how this UGent VPN works.
 
