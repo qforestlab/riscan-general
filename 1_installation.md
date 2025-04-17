@@ -15,7 +15,7 @@ Once your account is confirmed you can log in:
 
 ![installation-2](./img/1_installation-2.png)
 
-Here you can download the latest version of RiSCAN PRO. Make sure we have a license for the latest version (ask Kim/Louise). If not see steps 8-11.
+Here you can download the latest version of RiSCAN PRO. Make sure we have a license for the latest version (2025: 2.21.3). If not see steps 8-11.
 
 6. Click *DOWNLOAD*.
 7. Follow the steps in the installer. 
@@ -26,7 +26,7 @@ If we do not have the license to use the latest version of RiSCAN PRO follow the
 
 8. Go to *Software Archive > Terrestrial Scanning*. 
 9. Type RiSCAN PRO in the search bar and click go
-10. Download the last version we have a license to use. (2024: 2.19.1) by clicking on *DOWNLOAD*.
+10. Download the last version we have a license to use. (2025: 2.21.3) by clicking on *DOWNLOAD*.
 11. Follow the steps in the installer.
 
 ![installation-2](./img/1_installation-4.png)
